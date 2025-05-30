@@ -29,6 +29,4 @@ export default ({ mode }) => {
         },
       },
     },
-  };
-  return defineConfig(config);
-};
+
